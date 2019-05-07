@@ -2,10 +2,10 @@ main {
     width: 70%;
     margin: auto;
 }
-
-.blue {
-    background-color: #10328B;
+.fa-star, .fa-star-half-alt:not(.dark) {
+    color: #FFAF27
 }
-.orange {
-    background-color: #FFAF27;
+
+h3 {
+    color: #10328B
 }
