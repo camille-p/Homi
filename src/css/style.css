@@ -2,10 +2,13 @@ main {
     width: 70%;
     margin: auto;
 }
+
 .fa-star, .fa-star-half-alt:not(.dark) {
     color: #FFAF27;
 }
-
+.fa-facebook-square, .fa-instagram {
+font-size: 30px;
+}
 h3 {
     color: #10328B;
 }
