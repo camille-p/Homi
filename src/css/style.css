@@ -3,9 +3,17 @@ main {
     margin: auto;
 }
 .fa-star, .fa-star-half-alt:not(.dark) {
-    color: #FFAF27
+    color: #FFAF27;
 }
 
 h3 {
-    color: #10328B
+    color: #10328B;
+}
+
+.blue {
+    background-color: #10328B;
+}
+
+.orange {
+    background-color: #FFAF27;
 }
