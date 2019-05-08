@@ -6,13 +6,15 @@ main {
 .fa-star, .fa-star-half-alt:not(.dark) {
     color: #FFAF27;
 }
-.fa-facebook-square, .fa-instagram {
+.i-size {
 font-size: 30px;
 }
-h3 {
+h3, h4, .i-size {
     color: #10328B;
 }
-
+h1, h3, h4 {
+    font-family: Raleway;
+}
 .blue {
     background-color: #10328B;
 }
