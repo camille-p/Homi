@@ -1,8 +1,10 @@
 main {
-    width: 70%;
+    width: 80%;
     margin: auto;
 }
-
+body {
+    font-family: "Open Sans";
+}
 .fa-star, .fa-star-half-alt:not(.dark) {
     color: #FFAF27;
 }
