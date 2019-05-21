@@ -1,35 +1,40 @@
 main {
-    width: 80%;
-    margin: auto;
+  width: 80%;
+  margin: auto;
 }
 body {
-    font-family: "Open Sans";
+  font-family: "Open Sans";
 }
-.fa-star, .fa-star-half-alt:not(.dark) {
-    color: #FFAF27;
+.fa-star,
+.fa-star-half-alt:not(.dark) {
+  color: #ffaf27;
 }
 .i-size {
-font-size: 30px;
+  font-size: 30px;
 }
-h3, h4, .i-size {
-    color: #10328B;
+h3,
+h4,
+.i-size {
+  color: #10328b;
 }
-h1, h3, h4 {
-    font-family: Raleway;
+h1,
+h3,
+h4 {
+  font-family: Raleway;
 }
 .blue {
-    background-color: #10328B;
+  background-color: #10328b;
 }
 
 .orange {
-    background-color: #FFAF27;
+  background-color: #ffaf27;
 }
 
-.card:hover {  
-    -webkit-transform: scale(1.02);
-    -ms-transform: scale(1.02);
-    transform: scale(1.02);
+.card:hover {
+  -webkit-transform: scale(1.02);
+  -ms-transform: scale(1.02);
+  transform: scale(1.02);
 }
 .shadow {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
