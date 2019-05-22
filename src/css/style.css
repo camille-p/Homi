@@ -1,5 +1,9 @@
-main {
+.main-width {
   width: 80%;
+  margin: auto;
+}
+.features-width {
+  width: 95%;
   margin: auto;
 }
 body {
@@ -35,4 +39,10 @@ h4 {
   -ms-transform: scale(1.02);
   transform: scale(1.02);
 }
+.tall {
+  min-height: 700px;
+}
 
+.slim {
+  width: 225px;
+}
