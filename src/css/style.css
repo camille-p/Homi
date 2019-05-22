@@ -2,9 +2,27 @@
   width: 80%;
   margin: auto;
 }
-.features-width {
+.feature-width {
   width: 95%;
   margin: auto;
+}
+.background {
+  margin: auto;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,ffffff+35,ffffff+35,ffffff+35,ffffff+35,ffffff+35,ffffff+35,ffffff+36,ffffff+36,ffffff+36,ffffff+36,ffffff+40,ffaf27+40,ffaf27+40,ffaf27+40,ffaf27+100 */
+background: rgb(255,255,255); /* Old browsers */
+background: -moz-linear-gradient(45deg,  rgba(255,255,255,1) 0%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 36%, rgba(255,255,255,1) 36%, rgba(255,255,255,1) 36%, rgba(255,255,255,1) 36%, rgba(255,255,255,1) 40%, rgba(255,175,39,1) 40%, rgba(255,175,39,1) 40%, rgba(255,175,39,1) 40%, rgba(255,175,39,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 36%,rgba(255,255,255,1) 36%,rgba(255,255,255,1) 36%,rgba(255,255,255,1) 36%,rgba(255,255,255,1) 40%,rgba(255,175,39,1) 40%,rgba(255,175,39,1) 40%,rgba(255,175,39,1) 40%,rgba(255,175,39,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 36%,rgba(255,255,255,1) 36%,rgba(255,255,255,1) 36%,rgba(255,255,255,1) 36%,rgba(255,255,255,1) 40%,rgba(255,175,39,1) 40%,rgba(255,175,39,1) 40%,rgba(255,175,39,1) 40%,rgba(255,175,39,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffaf27',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+.footer {
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffaf27+0,ffaf27+35,ffffff+35,ffffff+35,ffffff+100 */
+background: rgb(255,175,39); /* Old browsers */
+background: -moz-linear-gradient(45deg,  rgba(255,175,39,1) 0%, rgba(255,175,39,1) 35%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 35%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  rgba(255,175,39,1) 0%,rgba(255,175,39,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  rgba(255,175,39,1) 0%,rgba(255,175,39,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 35%,rgba(255,255,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffaf27', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
 }
 body {
   font-family: "Open Sans";
